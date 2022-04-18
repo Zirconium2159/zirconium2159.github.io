@@ -1,6 +1,6 @@
 # Youmin Xu
 ### Ph.D Student
-#### Advised by: Prof. [‪Jian Zhang (张健）‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=0iHYaB4AAAAJ&hl=en&oi=ao)
+#### Advised by: Prof. [‪Jian Zhang (张健）‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=7brFI_4AAAAJ&view_op=list_works&sortby=pubdate)
 Research interest: Generative Model, Image Compression, Inverse Problems，FPV UAVs
 
 
