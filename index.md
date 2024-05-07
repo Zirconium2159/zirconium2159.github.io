@@ -1,9 +1,10 @@
-# Youmin Xu
+# Youmin Xu  [‪Google Scholar‬](https://scholar.google.com/citations?user=AEj89gcAAAAJ&hl=en)
 ### Ph.D Student in PKU
-#### Advised by: Prof. [‪Jian Zhang (张健）‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=7brFI_4AAAAJ&view_op=list_works&sortby=pubdate)
+#### Advised by: 
+Prof. [‪Jian Zhang (张健）‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=7brFI_4AAAAJ&view_op=list_works&sortby=pubdate)
 #### Research interest: 
 Generative Model, Image Compression, Inverse Problems，FPV UAVs
-#### [‪Google Scholar‬](https://scholar.google.com/citations?user=AEj89gcAAAAJ&hl=en)
+
 
 
 
