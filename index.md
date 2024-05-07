@@ -6,7 +6,7 @@ Research interest: Generative Model, Image Compression, Inverse Problems，FPV U
 
 
 ## Education　
-- 2016–2020,  Peking University of Post and Telecommunication (BUPT), BEng
+- 2016–2020,  Beijing University of Post and Telecommunication (BUPT), BEng
   - Information Engineering
 - 2020–2023 (For now),  Peking University (PKU), MS Student 
   - Computer Science
@@ -30,7 +30,13 @@ Research interest: Generative Model, Image Compression, Inverse Problems，FPV U
 - November 2018, the second prize of National Mathematics Competition for College Students; May 2018, The Meritorious Winner of Mathematical Contest in Modeling (MCM) & The Interdisciplinary Contest in Modeling (ICM)
 
 ## Preprints and Publications
+- [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://villa.jianzhang.tech/publication/100052/). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
+
+
 - [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Zhang Xuanyu (张轩宇)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2023). [CRoSS: Diffusion model makes controllable, robust and secure image steganography](https://villa.jianzhang.tech/publication/100052/). *Advances in Neural Information Processing Systems (NeuIPS)*.
+
+- [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/),  [Jiechong Song (宋皆充)](https://villa.jianzhang.tech/people/yujie-hu-胡妤婕/), [Chen Zhao (赵琛)](https://scholar.google.com/citations?hl=en&user=dUWdX5EAAAAJ), [Bernard Ghanem](https://scholar.google.com/citations?user=rVsGTeEAAAAJ&hl=en&oi=ao), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2023). [Large-capacity and flexible video steganography via invertible neural network](https://villa.jianzhang.tech/publication/100052/). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
+
 
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Yujie Hu (胡妤婕)](https://villa.jianzhang.tech/people/yujie-hu-胡妤婕/), [Jingfen Xie (谢静芬)](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2022). [Robust Invertible Image Steganography](https://villa.jianzhang.tech/publication/100052/). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
