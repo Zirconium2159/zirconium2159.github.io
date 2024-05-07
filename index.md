@@ -30,6 +30,16 @@ Research interest: Generative Model, Image Compression, Inverse Problems，FPV U
 - November 2018, the second prize of National Mathematics Competition for College Students; May 2018, The Meritorious Winner of Mathematical Contest in Modeling (MCM) & The Interdisciplinary Contest in Modeling (ICM)
 
 ## Preprints and Publications
+
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [HIS: Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/html/2312.08883v1). *ACM MultiMedia (MM)*.
+
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust Image Immunization for Tamper Localization and Self-Recovery](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
+
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust and Lossless Image Steganography](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
+- 
+- [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
+
+  
 - [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
 
