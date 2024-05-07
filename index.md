@@ -42,9 +42,6 @@ Generative Model, Image Compression, Inverse Problems，FPV UAVs
   
 - [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
-  
-- [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
-
 
 - [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Zhang Xuanyu (张轩宇)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2023). [CRoSS: Diffusion model makes controllable, robust and secure image steganography](https://proceedings.neurips.cc/paper_files/paper/2023/file/ff99390b6e942fb1dd7023f787fb0a27-Paper-Conference.pdf). *Advances in Neural Information Processing Systems (NeuIPS)*.
 
