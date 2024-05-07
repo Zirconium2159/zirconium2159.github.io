@@ -36,7 +36,7 @@ Research interest: Generative Model, Image Compression, Inverse Problems，FPV U
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust Image Immunization for Tamper Localization and Self-Recovery](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
 
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust and Lossless Image Steganography](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
-- 
+  
 - [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
   
@@ -54,4 +54,6 @@ Research interest: Generative Model, Image Compression, Inverse Problems，FPV U
 
 -  [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2021). [Invertible Resampling-Based Layered Image Compression](https://villa.jianzhang.tech/publication/100034/). *Data Compression Conference (DCC)*.
 
-  
+## Internship
+- RabbitPre AIGC LAB - Algorithm Researcher of AIGC security and copyright Protection (2023.04 - 2024.03)
+- Tencent TEG AI-LAB - Algorithm Researcher of 3D portrait video generation by GAN & Diffusion (2023.04 - 2024.04)
