@@ -56,4 +56,5 @@ Generative Model, Image Compression, Inverse Problems，FPV UAVs
 
 ## Internship
 - RabbitPre AIGC LAB - Algorithm Researcher of AIGC security and copyright Protection (2023.04 - 2024.03)
-- Tencent TEG AI-LAB - Algorithm Researcher of 3D portrait video generation by GAN & Diffusion (2023.04 - 2024.04)
+- Tencent TEG AI-LAB - Algorithm Researcher of 3D portrait video generation by GAN & Diffusion (2022.04 - 2023.04)
+- Pengcheng Laboratory - Research Engineer of content-aware semantic codec for ultra HD video (2021.04 - 2022.03)
