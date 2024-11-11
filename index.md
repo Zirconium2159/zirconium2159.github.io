@@ -34,11 +34,16 @@ Generative Model, Image Compression, Inverse Problems，FPV UAVs
 
 ## Preprints and Publications
 
-- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [HIS: Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/html/2312.08883v1). *ACM MultiMedia (MM)*.
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection](https://bytez.com/docs/arxiv/2404.16824/authors). *ACM MultiMedia (MM)*.
 
-- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust Image Immunization for Tamper Localization and Self-Recovery](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
 
-- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust and Lossless Image Steganography](https://arxiv.org/html/2312.08883v1). *European Conference on Computer Vision (ECCV)*.
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [DrLS: Distortion-Resistant Lossless Steganography
+via Color Depth Interpolation](https://bytez.com/docs/arxiv/2404.16824/authors). *IEEE Transactions on Circuits and Systems for Video Technology*.
+
+
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Robust Image Immunization for Tamper Localization and Self-Recovery](https://openreview.net/forum?id=3hHTBwbJ1g&noteId=WgQzCQZ6DZ). *the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-24)*.
+
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024 pending). [Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/html/2312.08883v1). *the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-24)*.
   
 - [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
@@ -50,11 +55,15 @@ Generative Model, Image Compression, Inverse Problems，FPV UAVs
 
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Yujie Hu (胡妤婕)](https://villa.jianzhang.tech/people/yujie-hu-胡妤婕/), [Jingfen Xie (谢静芬)](https://villa.jianzhang.tech/people/jingfen-xie-谢静芬/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2022). [Robust Invertible Image Steganography](https://villa.jianzhang.tech/publication/100052/). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2021). [Invertible Resampling-Based Layered Image Compression](https://villa.jianzhang.tech/publication/100034/). *Data Compression Conference (DCC)*.
+
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2021). [Expressive and Compressive GAN Inversion Network](https://villa.jianzhang.tech/publication/100043/). *IEEE International Conference on Image Processing (ICIP)*.
 
--  [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2021). [Invertible Resampling-Based Layered Image Compression](https://villa.jianzhang.tech/publication/100034/). *Data Compression Conference (DCC)*.
+
 
 ## Internship
-- RabbitPre AIGC LAB - Algorithm Researcher of AIGC security and copyright Protection (2023.04 - 2024.03)
+- Bytedance.Inc MMLab - Algorithm Researcher of Multimodal LLM and Video Quality Assessment (2024.04 - 2024.12)
+- Tencent Lightspeed - Algorithm Researcher of AIGC (2023.12 - 2024.06)
+- RabbitPre AIGC LAB - Algorithm Researcher of AIGC security and copyright Protection (2023.09 - 2024.03)
 - Tencent TEG AI-LAB - Algorithm Researcher of 3D portrait video generation by GAN & Diffusion (2022.04 - 2023.04)
 - Pengcheng Laboratory - Research Engineer of content-aware semantic codec for ultra HD video (2021.04 - 2022.03)
