@@ -34,10 +34,12 @@ Generative Model, Image Compression, Inverse Problems，FPV UAVs
 
 ## Preprints and Publications
 
+- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2025). [Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/html/2312.08883v1).International Conference on Multimedia & Expo（ICME）*.
+
 - [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection](https://bytez.com/docs/arxiv/2404.16824/authors). *ACM MultiMedia (MM)*.
 
 
-- [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Chong Mou (牟冲)](https://villa.jianzhang.tech/people/chong-mou-牟冲/),, [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2025). [Diffusion-Based Hierarchical Image Steganography](https://arxiv.org/html/2312.08883v1).International Conference on Multimedia & Expo（ICME）*.
+
   
 - [Xuanyu Zhang (张轩宇)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Runyi Li (李润一)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Jiwen Yu (余济闻)](https://villa.jianzhang.tech/people/chong-mou-牟冲/), [Youmin Xu (许佑民)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Weiqi Li (李玮琦)](https://villa.jianzhang.tech/people/youmin-xu-许佑民/), [Jian Zhang (张健)](https://villa.jianzhang.tech/people/jian-zhang-张健/) (2024). [Editguard: Versatile image watermarking for tamper localization and copyright protection](https://arxiv.org/html/2312.08883v1). *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 
